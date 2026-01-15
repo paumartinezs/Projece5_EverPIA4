@@ -18,8 +18,11 @@ Cal llicenciar **tots els nuclis del servidor** i complir amb els mínims obliga
   - Pack de **8 nuclis**
   - Pack de **2 nuclis**
 
+---
+
   <img width="594" height="178" alt="image" src="https://github.com/user-attachments/assets/78e17e41-fd72-41d0-a104-2f30211367e1" />
 
+---
 
 > **Important:** Les llicències de nuclis **no inclouen CALs**.  
 Les CALs són necessàries per a usuaris o dispositius que accedeixen a:
@@ -122,3 +125,4 @@ Crear una presentació (5-10 minuts) amb:
 
 ---
 
+[Torna a l'enunciat](README.md)
