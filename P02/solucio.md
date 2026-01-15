@@ -128,3 +128,7 @@ Crear una presentació (5-10 minuts) amb:
 [Torna a l'enunciat](README.md)
 
 [Torna a la pàgina principal](../README.md)
+
+
+
+
