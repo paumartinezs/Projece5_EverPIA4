@@ -51,6 +51,6 @@ Com a consultors informàtics, haureu de:
 
 ---
 
-Al arxiu [solucio](solucio.md)
+Al arxiu [solució](solucio.md)
 
 [Torna a l'enunciat](../README.md)
