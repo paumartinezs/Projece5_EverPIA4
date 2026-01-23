@@ -57,4 +57,10 @@
 
 <img width="708" height="556" alt="image" src="https://github.com/user-attachments/assets/1225448a-93f8-461a-97e8-164fbd6ba5bb" />
 
+### Posem de contrasenya "P@ssw0rd" i prenem "Finish"
 
+<img width="1008" height="761" alt="image" src="https://github.com/user-attachments/assets/6b9a4a84-de0a-41e2-8642-e27ccd95680b" />
+
+### Canviem el nom del servidor en el meu cas "DC18" com surt en pantalla
+
+<img width="1032" height="721" alt="image" src="https://github.com/user-attachments/assets/297f243b-fd14-4534-b3cd-aa52c0afbd9e" />
