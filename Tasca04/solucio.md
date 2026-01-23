@@ -41,3 +41,20 @@
 
 <img width="703" height="549" alt="image" src="https://github.com/user-attachments/assets/7dec9cb7-7283-49d1-a817-355917108830" />
 
+### Acceptem tot i li donem "Next"
+
+<img width="707" height="558" alt="image" src="https://github.com/user-attachments/assets/8d45b6e8-d675-44b9-a93a-9a14c575df08" />
+
+### Seleccionem la opció marcada en la captura de pantalla
+
+<img width="705" height="555" alt="image" src="https://github.com/user-attachments/assets/21764a9b-cde1-4764-9a6c-baa974d92c17" />
+
+### Acceptem
+
+<img width="519" height="406" alt="image" src="https://github.com/user-attachments/assets/ea487731-6cf4-40e4-96ec-8a1382791a4a" />
+
+### Escollim el disc principal que hem creat anteriorment ( El de 32 GB ) per crear el windows.
+
+<img width="708" height="556" alt="image" src="https://github.com/user-attachments/assets/1225448a-93f8-461a-97e8-164fbd6ba5bb" />
+
+
