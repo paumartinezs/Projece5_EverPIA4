@@ -88,3 +88,12 @@
 ### Canviem l'hora perque per defecte es posa en horari Estats Units, anem a "Settings" > "Time & security" > "Date & Time" i la canviem a horari de españa
 
 <img width="858" height="653" alt="image" src="https://github.com/user-attachments/assets/11fb2753-15ed-4604-8904-22b9e28ed7df" />
+
+### Ara anem a "DNS" , click dret a sobre del nostre DNS i prenem a "DNS Manager"
+
+<img width="961" height="785" alt="image" src="https://github.com/user-attachments/assets/a44b4db1-7f60-47b4-885e-422463cd00d6" />ç
+
+### Entrem dintre del domini, prenem "Forwarders" > "Edit"
+
+<img width="801" height="699" alt="image" src="https://github.com/user-attachments/assets/a981c139-5f17-43fc-82ee-3c204dce6c9d" />
+
